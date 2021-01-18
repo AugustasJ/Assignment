@@ -1,0 +1,244 @@
+{
+	"info": {
+		"_postman_id": "a19bf837-dc18-43a3-af0f-032f2e7510ae",
+		"name": "Home assignment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Goras T",
+			"item": [
+				{
+					"name": "GET Agreements VILIBOR1m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/d28888e9-2ba9-473a-a40f-e38cb54f9b35/agreements/baseRateCode=VILIBOR1m",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"d28888e9-2ba9-473a-a40f-e38cb54f9b35",
+								"agreements",
+								"baseRateCode=VILIBOR1m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Agreements VILIBOR3m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/d28888e9-2ba9-473a-a40f-e38cb54f9b35/agreements/baseRateCode=VILIBOR3m",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"d28888e9-2ba9-473a-a40f-e38cb54f9b35",
+								"agreements",
+								"baseRateCode=VILIBOR3m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Agreements VILIBOR6m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/d28888e9-2ba9-473a-a40f-e38cb54f9b35/agreements/baseRateCode=VILIBOR6m",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"d28888e9-2ba9-473a-a40f-e38cb54f9b35",
+								"agreements",
+								"baseRateCode=VILIBOR6m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Agreements VILIBOR1y",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/d28888e9-2ba9-473a-a40f-e38cb54f9b35/agreements/baseRateCode=VILIBOR1y",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"d28888e9-2ba9-473a-a40f-e38cb54f9b35",
+								"agreements",
+								"baseRateCode=VILIBOR1y"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Dange K",
+			"item": [
+				{
+					"name": "GET Agreements VILIBOR1m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/da2fd609-d754-4feb-8acd-c4f9ff13ba96/agreements/baseRateCode=VILIBOR1m",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+								"agreements",
+								"baseRateCode=VILIBOR1m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Agreements VILIBOR3m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/da2fd609-d754-4feb-8acd-c4f9ff13ba96/agreements/baseRateCode=VILIBOR3m",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+								"agreements",
+								"baseRateCode=VILIBOR3m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Agreements VILIBOR6m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/da2fd609-d754-4feb-8acd-c4f9ff13ba96/agreements/baseRateCode=VILIBOR6m",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+								"agreements",
+								"baseRateCode=VILIBOR6m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Agreements VILIBOR1y",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:50001/api/customers/da2fd609-d754-4feb-8acd-c4f9ff13ba96/agreements/baseRateCode=VILIBOR1y",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "50001",
+							"path": [
+								"api",
+								"customers",
+								"da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+								"agreements",
+								"baseRateCode=VILIBOR1y"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "GET Customers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:50001/api/customers",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50001",
+					"path": [
+						"api",
+						"customers"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET Customer",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:50001/api/customers/da2fd609-d754-4feb-8acd-c4f9ff13ba96",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "50001",
+					"path": [
+						"api",
+						"customers",
+						"da2fd609-d754-4feb-8acd-c4f9ff13ba96"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

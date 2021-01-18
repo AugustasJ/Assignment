@@ -1,0 +1,6 @@
+1) Norint naudoti program1 reikia atidaryti "Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.sln" failą ir paspausti "Run". Turi pasileisti du projektai: API ir WEB.
+* WEB projektas tik karkasas, kuris gauna duomenis iš API, bet jų neatnaujina. URI duomenys hardcode'inti, juos galima pakeisti "HomeAssignment.Web.Controllers.CustomerAgreementControlller.cs" klasėje, kur keičiami kintamieji BASE_RATE_CODE ir CUSTOMER_ID. CustomerId yra atsitiktinis GUID, juos galima pažiūrėti "HomeAssignmentLibrary.API.DbContexts.HomeAssignmentLibraryContext.cs"
+* API galima testuoti naudojant Postman programą. Postman bibliotekos failą "Assignment\Home_assignment.postman_collection.json" importuoti į Postmaną. Paleisti API projektą ir vykdyti aprašytas užklausas.
+
+2) API projektas kurtas su .NET Core 3.1, papildomai Automapper kuris duomenis iš db paruočia laukiamam atsakymui, ir MS Entity framework įrankiai, palengvinantys darbą su db.
+WEB projektas kurtas su ASP.NET MVC.

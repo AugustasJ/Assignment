@@ -1,0 +1,119 @@
+﻿@using System.Web.UI.WebControls
+@model IEnumerable<HomeAssignment.Web.Models.CustomerAgreementViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript">
+    function selectOnchangeCustomers(selectCustomers) {
+        var val = selectCustomers.value;
+        console.log("Customer id: " + val);
+    }
+
+    function selectOnchangeCodes(selectCodes) {
+        var val = selectCodes.value;
+        console.log("Code: " + val);
+    }
+
+    function fetchDataBtnClick() {
+        var customerId = document.getElementById("selectCustomers").value;
+        var codeId = document.getElementById("selectCodes").value;
+        console.log("Customer id: " + customerId + ", Code: " + codeId);
+    }
+
+</script>
+
+<h2>Customer info</h2>
+
+<div style="display: block; margin: 10px;">
+    <select style="display: inline-block; margin: 5px;" class="form-control" onchange="selectOnchangeCustomers(this);" id="selectCustomers">
+        @foreach (var customer in ViewBag.CustomersList)
+        {
+            <option value="@customer.Id" >@customer.Name</option>
+        }
+    </select>
+
+    <select style="display: inline-block; margin: 5px;" class="form-control" onchange="selectOnchangeCodes(this);" id="selectCodes">
+        @foreach (var code in ViewBag.BaseRateCodes)
+        {
+            <option value="@code.Value">@code.Text</option>
+        }
+    </select>
+
+    <button style="display: inline-block; margin: 5px;" class="btn btn-primary" id="btnFetchData" onclick="fetchDataBtnClick()">Get customer data</button>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PersonalId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BaseRateCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NewBaseRateCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Margin)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AgreementDuration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InterestRateForCurrentBaseRate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InterestRateForNewBaseRate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InterestRateDifference)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonalId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BaseRateCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NewBaseRateCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Margin)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AgreementDuration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InterestRateForCurrentBaseRate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InterestRateForNewBaseRate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InterestRateDifference)
+            </td>
+        </tr>
+    }
+
+</table>

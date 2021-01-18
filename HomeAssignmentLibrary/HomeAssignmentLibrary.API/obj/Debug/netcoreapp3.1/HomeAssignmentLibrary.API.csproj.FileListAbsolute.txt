@@ -1,0 +1,130 @@
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.exe
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.deps.json
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.runtimeconfig.json
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.runtimeconfig.dev.json
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.pdb
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.csprojAssemblyReference.cache
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.AssemblyInfoInputs.cache
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.AssemblyInfo.cs
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.csproj.CoreCompileInputs.cache
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\HomeAssignmentLibrary.API.StaticWebAssets.Manifest.cache
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\HomeAssignmentLibrary.API.StaticWebAssets.xml
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\HomeAssignmentLibrary.API.styles.css
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.RazorTargetAssemblyInfo.cache
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.csproj.CopyComplete
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.dll
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.pdb
+C:\Users\augisjuk\Desktop\Assignment\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.genruntimeconfig.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.exe
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.deps.json
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.runtimeconfig.json
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.runtimeconfig.dev.json
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.pdb
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.csprojAssemblyReference.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.AssemblyInfoInputs.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.AssemblyInfo.cs
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.csproj.CoreCompileInputs.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\HomeAssignmentLibrary.API.StaticWebAssets.Manifest.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\HomeAssignmentLibrary.API.StaticWebAssets.xml
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\HomeAssignmentLibrary.API.styles.css
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.RazorTargetAssemblyInfo.cache
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.csproj.CopyComplete
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.dll
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.pdb
+C:\Users\augisjuk\Desktop\Assignment - Copy\HomeAssignmentLibrary\HomeAssignmentLibrary.API\obj\Debug\netcoreapp3.1\HomeAssignmentLibrary.API.genruntimeconfig.cache
